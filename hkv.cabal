@@ -7,8 +7,8 @@ synopsis:            A tutorial implementation of a key-value store in Haskell.
 -- description:
 license:             MIT
 license-file:        LICENSE
-author:              Alejandro Cabrera
-maintainer:          cpp.cabrera@gmail.com
+author:              Allele Dev
+maintainer:          allele.dev@gmail.com
 -- copyright:
 category:            Database
 build-type:          Simple
